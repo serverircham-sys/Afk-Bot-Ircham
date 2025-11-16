@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "Admin",
+        "username": "AndreassAFK",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "spookytown.aternos.me",
-        "port": 36068,
-        "version": "1.17.1"
+        "ip": "dynamic-9.magmanode.com",
+        "port": 25821,
+        "version": "1.18"
     },
 
     "position":{
@@ -43,3 +43,4 @@
         "auto-reconnect": true
     }
 }
+
